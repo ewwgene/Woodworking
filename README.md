@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
 ## Pods. _SUMMER-2015.07._
-![[Pods](/100.jpg)](https://ewwgene.github.io/Pods/Carousel)<a href="https://ewwgene.github.io/Pods/Carousel/#101"><img src="https://ewwgene.github.io/Pods/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/Pods/Carousel/#102"><img src="https://ewwgene.github.io/Pods/102.jpg" height="66"></a> 
+[![Pods](/100.jpg)](https://ewwgene.github.io/Pods/Carousel)<a href="https://ewwgene.github.io/Pods/Carousel/#101"><img src="https://ewwgene.github.io/Pods/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/Pods/Carousel/#102"><img src="https://ewwgene.github.io/Pods/102.jpg" height="66"></a> 
 <br>
 **Overview**
  проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)

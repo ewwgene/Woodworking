@@ -1,6 +1,6 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
-## [/Pods. _SUMMER-2015.07._](https://ewwgene.github.io/Pods)
+### [Pods. — _DESIGN SERIES._](https://ewwgene.github.io/Pods)
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Pods/100.jpg)
 <a id="101"></a> ![101.jpg](https://ewwgene.github.io/Pods/101.jpg)
 <a id="102"></a> ![102.jpg](https://ewwgene.github.io/Pods/102.jpg)

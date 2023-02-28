@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Pods
 
-[![Pods](/100.jpg)](https://ewwgene.github.io/Pods/Carousel)<a id="101" href="https://ewwgene.github.io/Pods/Carousel/#101"><img src="https://ewwgene.github.io/Pods/101.jpg" height="66"></a> <a id="102" href="https://ewwgene.github.io/Pods/Carousel/#102"><img src="https://ewwgene.github.io/Pods/102.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Pods](/100.jpg)](https://ewwgene.github.io/Pods/Carousel)<br> <a id="101" href="https://ewwgene.github.io/Pods/Carousel/#101"><img src="https://ewwgene.github.io/Pods/101.jpg" height="66"></a> <a id="102" href="https://ewwgene.github.io/Pods/Carousel/#102"><img src="https://ewwgene.github.io/Pods/102.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="300" href="https://ewwgene.github.io/Pods/Carousel/#300"><img src="https://ewwgene.github.io/Pods/300.jpg" height="66"></a> <a id="301" href="https://ewwgene.github.io/Pods/Carousel/#301"><img src="https://ewwgene.github.io/Pods/301.jpg" height="66"></a> <a id="302" href="https://ewwgene.github.io/Pods/Carousel/#302"><img src="https://ewwgene.github.io/Pods/302.jpg" height="66"></a> 
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)

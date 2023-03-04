@@ -5,7 +5,7 @@
 
 _`SOLID_PINE_WOOD`_ _`WAX`_ 
 
-Наборы подставок для рабочего стола, массив дерева
+Наборы подставок для рабочего стола, массив дерева.
 
 ### Making — _SUMMER-2015.07._
 <a id="200m" href="https://ewwgene.github.io/Pods/Carousel/#200m"><img src="https://ewwgene.github.io/Pods/Making/200.jpg" height="66"></a> <a id="205m" href="https://ewwgene.github.io/Pods/Carousel/#205m"><img src="https://ewwgene.github.io/Pods/Making/205.jpg" height="66"></a> <a id="206m" href="https://ewwgene.github.io/Pods/Carousel/#206m"><img src="https://ewwgene.github.io/Pods/Making/206.jpg" height="66"></a> <a id="207m" href="https://ewwgene.github.io/Pods/Carousel/#207m"><img src="https://ewwgene.github.io/Pods/Making/207.jpg" height="66"></a> <a id="208m" href="https://ewwgene.github.io/Pods/Carousel/#208m"><img src="https://ewwgene.github.io/Pods/Making/208.jpg" height="66"></a>  

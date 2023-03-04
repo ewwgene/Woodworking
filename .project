@@ -1,9 +1,9 @@
 {
     "date": ["SUMMER", "2015.07"],
-    "medium": ["DESIGN SERIES", "SCULPTURE"],
-    "material": ["SOLID_PINE_WOOD", "PLASTER"],
-    "hardware": ["SOLID_PINE_WOOD", "NATURAL OIL", "WAX"],
+    "medium": ["DESIGN_SERIES", "SCULPTURE"],
+    "material": ["SOLID_PINE_WOOD", "WAX"],
+    "hardware": ["KUTZALL_WHEELS"],
     "software": ["IDRAW"],
-    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "making": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "overview": "Ќаборы подставок дл€ рабочего стола, массив дерева",
+    "making": "‘игурна€ форма фрезерованна твердосплавными дисками  _**`KUTZALL_WHEELS`**_."
 }
